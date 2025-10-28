@@ -271,7 +271,8 @@ Lidar {
 Closest obstacle: dist=1.23m, angle=45.3deg
 Obstacles: 5 | Pos: (0.45, 1.23)
 ```
-![alt text](image.png)
+<img width="895" height="580" alt="image" src="https://github.com/user-attachments/assets/71172c73-0459-40e8-969e-0cbf9449bbfd" />
+
 ---
 
 <div align="center">
